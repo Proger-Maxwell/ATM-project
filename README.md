@@ -68,4 +68,4 @@ Please visit the project site using any browser and test it.
 
 
 # User flow
-![User flow pic](https://drive.google.com/file/d/1mnlOYz1TtJKYysyEU12eSBIOGxECGegK/view?usp=sharing)
+![User flow pic](user-flow-atm-bank.png)
