@@ -46,5 +46,26 @@ Ready!
 Please visit the project site using any browser and test it.
 
 
+# Implemented features
+
+ - Authorization;
+ - Registration;
+ - Password change;
+ - Money transaction;
+ - Put money into the account (adjusted for the lack of a bill acceptor);
+ - Withdrawal of funds
+
+# Features in future versions
+
+- Routing will be added;
+- Multilingualism will be added;
+- Currency will be added;
+- Name of the recipient will be displayed before the funds are sent;
+- Appearance improvements;
+- Receipt generation;
+- Preservation of the history of work with funds;
+- Add saving data when an error is returned from the form
 
 
+# User flow
+![User flow pic](https://drive.google.com/file/d/1mnlOYz1TtJKYysyEU12eSBIOGxECGegK/view?usp=sharing)
