@@ -1,0 +1,45 @@
+.menu{
+    padding-bottom: 20px;
+}
+.menu__block{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.menu__block .item{
+    padding: 11px 20px;
+    margin-right: 10px;
+    background: #f2f2f2;
+    text-decoration: none;
+}
+
+.menu__block .item:hover{
+    background: #d3d3d3;
+}
+
+.notification_message{
+    background: #ffe0e0;
+    padding: 20px;
+    width: 308px;
+    margin-bottom: 29px;
+}
+
+button{
+    padding: 11px 20px;
+    margin-right: 10px;
+    background: #85fbff;
+    text-decoration: none;
+    border: 0px;
+}
+button:hover{
+    background: #6cd9dd;
+}
+
+form ul{
+    list-style-type: none;
+    margin-left: -25px;
+}
+
+ul li{
+    padding-bottom: 10px; 
+}
